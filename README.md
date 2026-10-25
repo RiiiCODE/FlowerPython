@@ -80,12 +80,7 @@ python -m pip install Pillow
 **Tkinter is unavailable**
 
 Tkinter is usually included with standard Python installations. On some Linux systems, it must be installed separately through the system package manager.
-
-## 📄 License
-
-Choose a license for this project before distributing or reusing it.
-
----
+```
 
 <p align="center">
   Made with ❤️ By <a href="https://instagram.com/fakhriigt">RiiCODE</a>
