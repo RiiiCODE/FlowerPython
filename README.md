@@ -5,7 +5,7 @@ A beautiful animated rose created with Python using the **pointillism technique*
 ## Preview
 
 <p align="center">
-  <img src="./mawar_stages.png" alt="Pointillism Rose Preview" width="100%">
+  <img src="https://github.com/RiiiCODE/FlowerPython/blob/main/image.png?raw=true" alt="Pointillism Rose Preview" width="100%">
 </p>
 
 ## ✨ Features
